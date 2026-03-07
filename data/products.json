@@ -107,7 +107,7 @@
     "description": "Konsultasi dan bantuan debugging kode untuk berbagai bahasa pemrograman dan framework.",
     "icon": "\ud83d\udd27",
     "image": "/images/products/konsultasi-debugging.jpg",
-    "featured": false
+    "featured": true
   }
   {
     "id": 11,
@@ -118,6 +118,6 @@
     "description": "akun new",
     "icon": "\ud83d\udd27",
     "image": "/images/products/konsultasi-debugging.jpg",
-    "featured": false
+    "featured": true
   }
 ]
