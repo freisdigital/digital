@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Jasa Pembuatan Website Landing Page",
+    "category": "Website",
+    "price": 95000-200000,
+    "unit": "per website",
+    "description": "Website landing page profesional dengan desain modern, responsif, dan SEO-friendly.",
+    "icon": "\ud83c\udf10",
+    "image": "/images/products/website-landing-page.jpg",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Jasa Pembuatan Website Toko Online",
+    "category": "Website",
+    "price": 150000-350000,
+    "unit": "per website",
+    "description": "Website toko online lengkap dengan keranjang belanja, manajemen produk, dan pembayaran otomatis.",
+    "icon": "\ud83d\udecd\ufe0f",
+    "image": "/images/products/website-toko-online.jpg",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Source Code Bot WhatsApp Multi-Fitur",
+    "category": "Bot WhatsApp",
+    "price": 50000-100000,
+    "unit": "per script",
+    "description": "Source code bot WhatsApp lengkap dengan fitur auto-reply, broadcast, dan integrasi API.",
+    "icon": "\ud83e\udd16",
+    "image": "/images/products/bot-whatsapp.jpg",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Source Code Bot Telegram",
+    "category": "Bot Telegram",
+    "price": 50000-100000,
+    "unit": "per script",
+    "description": "Source code bot Telegram dengan fitur lengkap termasuk command handler dan inline keyboard.",
+    "icon": "\u2708\ufe0f",
+    "image": "/images/products/bot-telegram.jpg",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "Jasa Install & Setup VPS/Server",
+    "category": "Lainnya",
+    "price": 20000,
+    "unit": "per sesi",
+    "description": "Jasa instalasi dan konfigurasi VPS/server untuk hosting website atau bot Anda.",
+    "icon": "\ud83d\udda5\ufe0f",
+    "image": "/images/products/vps-server.jpg",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Jasa Desain UI/UX Aplikasi",
+    "category": "Desain",
+    "price": 100000,
+    "unit": "per halaman",
+    "description": "Desain antarmuka aplikasi modern dan user-friendly dengan pendekatan UX research.",
+    "icon": "\ud83c\udfa8",
+    "image": "/images/products/desain-uiux.jpg",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Source Code Admin Dashboard",
+    "category": "Source Code",
+    "price": 200000,
+    "unit": "per script",
+    "description": "Source code admin dashboard lengkap dengan manajemen data, chart, dan autentikasi.",
+    "icon": "\ud83d\udcca",
+    "image": "/images/products/admin-dashboard.jpg",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "Jasa Bot WhatsApp dan web Bisnis Custom",
+    "category": "Bot WhatsApp",
+    "price": 300000,
+    "unit": "per project",
+    "description": "Bot WhatsApp custom sesuai kebutuhan bisnis Anda dengan fitur dan alur percakapan khusus.",
+    "icon": "\ud83d\udcac",
+    "image": "/images/products/bot-wa-bisnis.jpg",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Source Code Website Company Profile",
+    "category": "Website",
+    "price": 90000,
+    "unit": "per script",
+    "description": "Source code website company profile modern dengan animasi dan desain responsif.",
+    "icon": "\ud83c\udfe2",
+    "image": "/images/products/website-company-profile.jpg",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Jasa Konsultasi & Debugging Kode",
+    "category": "Lainnya",
+    "price": 50000,
+    "unit": "per sesi",
+    "description": "Konsultasi dan bantuan debugging kode untuk berbagai bahasa pemrograman dan framework.",
+    "icon": "\ud83d\udd27",
+    "image": "/images/products/konsultasi-debugging.jpg",
+    "featured": false
+  }
+]
