@@ -109,4 +109,15 @@
     "image": "/images/products/konsultasi-debugging.jpg",
     "featured": false
   }
+  {
+    "id": 11,
+    "name": "Netflix semi private",
+    "category": "lainnya",
+    "price": 26000,
+    "unit": "per akun",
+    "description": "akun new",
+    "icon": "\ud83d\udd27",
+    "image": "/images/products/konsultasi-debugging.jpg",
+    "featured": false
+  }
 ]
