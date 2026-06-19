@@ -5,8 +5,8 @@ export async function POST(req: NextRequest) {
   const body = await req.json()
   const { username, password } = body
 
-  const adminUser = process.env.ADMIN_USERNAME || "FreisDigitalStore"
-  const adminPass = process.env.ADMIN_PASSWORD || "Freis123"
+  const adminUser = process.env.ADMIN_USERNAME || "frxqs"
+  const adminPass = process.env.ADMIN_PASSWORD || "freis123"
 
   if (username === adminUser && password === adminPass) {
     const token = Buffer.from(`${username}:${Date.now()}`).toString("base64")
