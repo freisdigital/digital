@@ -3,8 +3,8 @@ import { MessageCircle, Send, Mail, Instagram } from "lucide-react"
 export default function KontakPage() {
   const waNumber = process.env.NEXT_PUBLIC_WA_NUMBER || "6288975319241"
   const telegram = process.env.NEXT_PUBLIC_CONTACT_TELEGRAM || "@FreisCracks"
-  const email = process.env.NEXT_PUBLIC_CONTACT_EMAIL || ""
-  const instagram = process.env.NEXT_PUBLIC_CONTACT_INSTAGRAM || "freis_store.id"
+  const email = process.env.NEXT_PUBLIC_CONTACT_EMAIL || "freisdigitalstore@gmail.com"
+  const instagram = process.env.NEXT_PUBLIC_CONTACT_INSTAGRAM || "_"
 
   const contacts = [
     {
