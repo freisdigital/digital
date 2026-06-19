@@ -5,6 +5,8 @@ import {
   Send,
   ShieldCheck,
   Zap,
+  Diamond,
+  Server,
 } from "lucide-react"
 
 const features = [
@@ -12,6 +14,16 @@ const features = [
     icon: Globe,
     title: "Website",
     description: "Pembuatan website profesional dengan desain modern dan responsif.",
+  },
+  {
+    icon: Diamond,
+    title: "Apps Prem",
+    description: "berkualitas dan terjangakau dibanding seller lain.",
+  },
+   {
+    icon: Server,
+    title: "Panel",
+    description: "Server terjaga, terurus dan yang pasti anti delay.",
   },
   {
     icon: MessageCircle,
@@ -53,16 +65,16 @@ export default function TentangPage() {
           </h1>
         </div>
 
-        {/* About Text */}
+         {/* About Text */}
         <div className="mx-auto mb-20 max-w-3xl space-y-6 text-center">
           <p className="text-lg leading-relaxed text-muted-foreground">
             <strong className="text-foreground">{shopName}</strong> Freis Digital Store 
-            adalah penyedia jasa digital yang fokus pada kualitas dan kepuasan pelanggan.
-            Kami menyediakan berbagai layanan mulai dari pembuatan website, bot
-            WhatsApp, bot Telegram, hingga source code siap pakai.
+            adalah penyedia jasa kebutuhan digital yang fokus pada kualitas dan kepuasan pelanggan.
+            Kami menyediakan berbagai layanan mulai dari aplikasi premium, pembuatan website,
+            bot WhatsApp, bot Telegram, panel, sc bug, apk phising hingga source code siap pakai.
           </p>
           <p className="text-lg leading-relaxed text-muted-foreground">
-            Dengan pengalaman melayani lebih dari 200 pelanggan, kami memahami
+            Dengan pengalaman melayani lebih dari 303 pelanggan, kami memahami
             kebutuhan digital Anda. Setiap project dikerjakan dengan penuh
             perhatian terhadap detail dan menggunakan teknologi terkini.
           </p>
